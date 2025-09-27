@@ -29,3 +29,28 @@ __pycache__/
 Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
+
+# Jupyter Notebook outputs
+*.log
+
+# Virtual environments
+venv/
+env/
+.env
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model files (if you don't want to track large models)
+*.pkl
+*.joblib
+*.h5
+*.pb
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls

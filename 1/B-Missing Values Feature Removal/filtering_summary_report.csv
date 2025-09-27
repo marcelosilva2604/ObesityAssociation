@@ -1,2 +1,0 @@
-original_variables,filtered_variables,excluded_variables,exclusion_rate_percent,original_shape,filtered_shape,missing_threshold_percent,total_observations
-741,419,322,43.45479082321187,"(8236, 741)","(8236, 419)",30,8236
