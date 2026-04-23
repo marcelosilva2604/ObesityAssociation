@@ -54,3 +54,10 @@ env/
 # Excel temporary files
 ~$*.xlsx
 ~$*.xls
+~$*.docx
+
+# Manuscript working folder — editorial drafts, cover letter, checklists, figures.
+# Intentionally kept out of the public repository.
+manuscrito/
+manuscrito\ jamia/
+Escrevendo\ Artigo/
